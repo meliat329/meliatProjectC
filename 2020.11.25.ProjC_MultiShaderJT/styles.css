@@ -1,0 +1,41 @@
+body {
+    border: 0;
+    margin: 0;
+    background-color: white;
+}
+
+
+
+.titlebar {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.page-font {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.light-sliders {
+    display: grid;
+    margin-left: 1vw;
+}
+
+.buttons {
+    margin-left: 1vw;
+}
+
+.LA {
+    grid-column: 1 / span 1;
+}
+
+.LD {
+    grid-column: 2 / span 1;
+}
+
+.LS {
+    grid-column: 3 / span 1;
+}
+
+.LP {
+    grid-column: 4 / span 1;
+}
